@@ -1,6 +1,6 @@
 ## Hi I'm Matt
 
-I'm Matt Ali Bugucam, an educator, a Full Stack newbie, educational content creator and a life-long learner.
+I'm Matt Ali Bugucam, an educator, a Full Stack dev, educational content creator and a life-long learner.
 
 :mailbox: Reach me out!
 
