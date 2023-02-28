@@ -1,5 +1,7 @@
 ## Hi I'm Matt
 
+![](https://komarev.com/ghpvc/?username=mabgcm&color=brightgreen&style=plastic)
+
 I'm Matt Ali Bugucam, an educator, a Full Stack dev, educational content creator and a life-long learner.
 
 :mailbox: Reach me out!
